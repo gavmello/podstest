@@ -1,0 +1,1 @@
+cocoapods private repository test by Alowez
